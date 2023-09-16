@@ -1,0 +1,30 @@
+.main-div {
+    width: 970px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 20px; 
+  }
+
+  .sub-div {
+    text-align: center;
+    width: 150px; 
+  }
+
+  .sub-div img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  .mrch-title{
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 6px;
+    border-bottom: purple solid 4px;
+  }
+  .mrch-hr{
+    border: 2px solid;
+    margin-top: 4px;
+   
+  }

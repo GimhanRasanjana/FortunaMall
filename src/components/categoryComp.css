@@ -1,0 +1,32 @@
+
+.categories-container{
+    padding-top: 20px;
+    max-width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.categories-comp-header{
+    border-width: 0;
+    border-bottom-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+
+
+.categories-comp-body{
+    /* background-color: aquamarine; */
+    max-height: 50vh;
+    overflow-y: scroll;
+    height: 50vh;
+}
+
+.categories-comp-body::-webkit-scrollbar {
+    display: none;
+}
+.category-icon{
+    width: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

@@ -1,0 +1,41 @@
+.header-content {
+    width: 100%;
+    height: auto;
+    background-color: #4E505F
+}
+
+
+
+.header-img {
+    width:auto;
+    height:340px;
+}
+
+.large-text, .small-text{
+    width: 100%;
+}
+
+.large-text p {
+    width: 100%;
+    margin-top: 30px;
+    color: #fff;
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0px;
+    line-height: 1; margin-bottom: 0;
+
+}
+
+
+.small-text p {
+    margin-top: 10px;
+    color: #fff;
+    font-size: 18px;
+}
+.text-container{
+    padding-top:60px;
+    height: 100%;
+    display: block ;
+   
+}
