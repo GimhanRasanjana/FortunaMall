@@ -3,6 +3,7 @@
 
 1. Clone the project repository:
 
+https://github.com/GimhanRasanjana/FortunaMall/tree/main
 
 2. Navigate to the project directory:
 
