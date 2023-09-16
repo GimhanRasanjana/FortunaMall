@@ -18,7 +18,7 @@ function MainContainer({children}) {
           <div className="col-lg-9 ">
             <div className="container">
                 <div className="row">
-                    <div className="col-12 p-0">
+                    <div className="col-12 p-0 my-4">
                         <h5>FOTUNA MALL </h5>
                     </div>
                     <div className="col-12">
