@@ -23,9 +23,9 @@ function SpecialCategories(){
         <div className="col-xs-12 col-lg-auto">
             <SpecialCategorySingle image={image2}>
                 <div class="textBox">
-                    <p className="normal">MADE IN
+                    <p className="normal">FOOD AND
                         <br/>
-                        <b>SRI LANKA</b>
+                        <b>BEVERAGE</b>
                     </p>
                     <p className="small">
                         Shop now <FontAwesomeIcon icon={faCircleChevronRight} style={{ color: '#080808' }} />
@@ -36,9 +36,9 @@ function SpecialCategories(){
         <div className="col-xs-12 col-lg-auto">
             <SpecialCategorySingle image={image3}>
                 <div class="textBox">
-                    <p className="normal">MADE IN
+                    <p className="normal">HEALTH AND
                         <br/>
-                        <b>SRI LANKA</b>
+                        <b>BEAUTY</b>
                     </p>
                     <p className="small">
                         Shop now <FontAwesomeIcon icon={faCircleChevronRight} style={{ color: '#080808' }} />

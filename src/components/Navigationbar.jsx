@@ -37,6 +37,7 @@ function Navigationbar() {
       <div className="bottom-icons ">
           <span className='mx-2'><FontAwesomeIcon icon={faHeart} /> Wishlist</span>
           <span className='mx-2'><FontAwesomeIcon icon={faShoppingCart} /> Cart</span> 
+          <FontAwesomeIcon icon="fa-solid fa-scale-balanced" style={{color: "#000000",}} />
           <span className='mx-2'><FontAwesomeIcon icon={faUser} className='mx-2' />Log In / Register</span>
           
         </div>
